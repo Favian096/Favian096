@@ -8,11 +8,6 @@
 
 ### 📊  GitHub Activity Graph:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg#gh-light-mode-only">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg">
-</picture>
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Favian096/Favian096/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Favian096/Favian096/output/github-contribution-grid-snake.svg#gh-light-mode-only">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Favian096/Favian096/output/github-contribution-grid-snake.svg">
