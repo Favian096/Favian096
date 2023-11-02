@@ -17,6 +17,3 @@
 
 <div align=center><img width=100% src="https://github-readme-stats.vercel.app/api?username=Favian096&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></div>
 
-<div align=center><img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favian096&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></div>
-<div align=center><img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favian096&layout=compact"></div>
-
