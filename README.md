@@ -15,5 +15,3 @@
 
 <div align=center><img width=100% src="https://github-stats.ubrong.com/api?username=Favian096&show_icons=true"></div>
 
-<div align=center><img width=100% src="https://github-readme-stats.vercel.app/api?username=Favian096&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"></div>
-
