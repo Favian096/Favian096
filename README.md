@@ -1,10 +1,8 @@
 # <font face="微软雅黑" color=#0969da> 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 **Favian096**</font>
 
-<font face="微软雅黑"> :computer: **Always striving for the perfect programmer**  </font>
+<font face="微软雅黑"> :computer: **Hello World    [Favian096](https://github.com/Favian096)**  </font>
 
-- 🔭I’m currently working on SpringBoot, Vue, Algorithm...
-- 💬 Ask me about new technology…
-- 📫 Mail or notifications:  [Favian096](https://github.com/Favian096)
+:cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud:
 
 ### 📊  GitHub Activity Graph:
 <picture>
