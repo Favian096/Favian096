@@ -1,6 +1,6 @@
 # <font face="微软雅黑" color=#0969da> 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 **Favian096**</font>
 
-<font face="微软雅黑"> :computer: **Hello World    [Favian096](https://github.com/Favian096)**  </font>
+<font face="微软雅黑"> :computer: **[Hello World](https://github.com/Favian096)**  </font>
 
 :cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud:
 
