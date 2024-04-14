@@ -4,6 +4,8 @@
 
 :cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud::cloud:
 
+![](./Assets/background_1.png)
+
 
 ### 📊  GitHub Activity Graph:
 <picture>
