@@ -2,7 +2,7 @@
 
 <font face="微软雅黑"> :computer: **[Hello World](https://github.com/Favian096)**  </font>
 
-<center>⛈️🌧️🌨️⛅☁️🌥️🌩️🌤️🌦️</center>
+---
 
 ![](./Assets/background_1.png)
 
