@@ -2,11 +2,7 @@
 
 <div align="center">
         <img align=center
-        src="https://img.shields.io/badge/Mail-Favian096@mail.com-%231280b7?style=flat"
-        /> <img align=center
-          src="https://img.shields.io/github/stars/Favian096?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
-        /> <img align=center
-          src="https://img.shields.io/github/followers/Favian096?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=rgb(3, 126, 187)"
+        src="https://img.shields.io/badge/Mail-Favian096mail@gmail.com-%231280b7?style=flat"
         /> <img align=center
           src="https://komarev.com/ghpvc/?username=Favian096&label=visitors"
         />
