@@ -20,7 +20,7 @@
 </picture>
 
 <div align="center">
-<img align="center" width="48.3%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"> <img align="center" width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favian096"/>
+<img align="center" width="48.3%" src="https://github-readme-stats.vercel.app/api?username=Favian096&show_icons=true&theme=transparent"> <img align="center" width="48.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favian096"/>
 </div>
 
 ---
