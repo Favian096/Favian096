@@ -10,7 +10,7 @@
 
 ---
 
-![](./Assets/background_1.png)
+![](./Assets/Coding.gif)
 
 ### 📊  GitHub Activity Graph:
 <picture>
