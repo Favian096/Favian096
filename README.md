@@ -9,8 +9,9 @@
       </div>
 
 ---
-
-![](./Assets/Coding.gif)
+<p align="center" width="100%">
+    <img width="33%" src="./Assets/Coding.gif">
+</p>
 
 ### 📊  GitHub Activity Graph:
 <picture>
