@@ -28,15 +28,3 @@
 </table>
 
 ---
-
-<div align="center">
-<img width="97%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Favian096"/>
-</div>
-
-
-
-
-
-
-
-
