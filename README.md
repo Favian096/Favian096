@@ -20,11 +20,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Favian096/Favian096/output/github-contribution-grid-snake.svg">
 </picture>
 
-<table>
-     <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=Favian096&show_icons=true&theme=transparent"></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Favian096"></td>
-    </tr>
-</table>
-
 ---
